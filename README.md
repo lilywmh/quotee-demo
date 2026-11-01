@@ -32,16 +32,19 @@ Quotee starts from the opposite principle:
 
 <table>
   <tr>
-    <td align="center"><img src="assets/screens/01-save.png" width="200"><br><sub><b>Save</b> — camera, image or paste</sub></td>
-    <td align="center"><img src="assets/screens/02-clippings.png" width="200"><br><sub><b>Clippings</b> — save first, organize later</sub></td>
-    <td align="center"><img src="assets/screens/03-looking-back.png" width="200"><br><sub><b>Looking Back</b> — a quiet calendar, no streaks</sub></td>
-    <td align="center"><img src="assets/screens/04-reflect-home.png" width="200"><br><sub><b>Reflect</b> — "only a mirror; the reflection is yours"</sub></td>
+    <td align="center" width="33%"><img src="assets/screens/01-save.png" width="240"><br><sub><b>Save</b> — camera, image or paste</sub></td>
+    <td align="center" width="33%"><img src="assets/screens/02-clippings.png" width="240"><br><sub><b>Clippings</b> — save first, organize later</sub></td>
+    <td align="center" width="33%"><img src="assets/screens/03-notebook.png" width="240"><br><sub><b>Notebook</b> — a shelf of the books you've quoted</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/screens/05-reflect-sources.png" width="200"><br><sub><b>Grounded answers</b> — source quote shown inline</sub></td>
-    <td align="center"><img src="assets/screens/06-reflect-ai.png" width="200"><br><sub><b>AI reflection</b> — connects your quotes and notes</sub></td>
-    <td align="center"><img src="assets/screens/07-ai-settings.png" width="200"><br><sub><b>Opt-in AI</b> — choose provider, key in Keychain</sub></td>
-    <td align="center"><img src="assets/screens/08-privacy.png" width="200"><br><sub><b>Privacy, in plain words</b></sub></td>
+    <td align="center" width="33%"><img src="assets/screens/04-looking-back.png" width="240"><br><sub><b>Looking Back</b> — a quiet calendar, no streaks</sub></td>
+    <td align="center" width="33%"><img src="assets/screens/05-reflect-home.png" width="240"><br><sub><b>Reflect</b> — "only a mirror; the reflection is yours"</sub></td>
+    <td align="center" width="33%"><img src="assets/screens/06-reflect-sources.png" width="240"><br><sub><b>Grounded answers</b> — source quote shown inline</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="assets/screens/07-reflect-ai.png" width="240"><br><sub><b>AI reflection</b> — connects your quotes and notes</sub></td>
+    <td align="center" width="33%"><img src="assets/screens/08-ai-settings.png" width="240"><br><sub><b>Opt-in AI</b> — choose provider, key in Keychain</sub></td>
+    <td align="center" width="33%"><img src="assets/screens/09-privacy.png" width="240"><br><sub><b>Privacy, in plain words</b></sub></td>
   </tr>
 </table>
 
