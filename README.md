@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="assets/icon.png" width="120" alt="Quotee app icon">
-</p>
-
-<h1 align="center">Quotee</h1>
-<p align="center"><em>A calm reading companion for iPhone. Save quotes, build a notebook, and think with what you've read.</em></p>
-
-<p align="center">SwiftUI · SwiftData · Vision OCR · on-device retrieval (RAG) · FastAPI · LLM APIs</p>
+<p align="center"><img src="assets/banners/0-hero.png" alt="Quotee — a calm reading companion for iPhone"></p>
 
 > The source code is in a private repository. This page describes the product and its design. Code access is available on request.
 
@@ -30,49 +23,13 @@ Quotee starts from the opposite principle:
 
 ## Screenshots
 
-**Capture & notebook**
+<p align="center"><img src="assets/banners/1-capture.png" alt="Capture and notebook"></p>
 
-<table>
-  <tr>
-    <td align="center" width="25%"><img src="assets/screens/01-save.png" width="200"><br><sub><b>Save</b><br>camera, image or paste</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/02-clippings.png" width="200"><br><sub><b>Clippings</b><br>save first, organize later</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/03-notebook.png" width="200"><br><sub><b>Notebook</b><br>a shelf of the books you've quoted</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/04-looking-back.png" width="200"><br><sub><b>Looking Back</b><br>a quiet calendar, no streaks</sub></td>
-  </tr>
-</table>
+<p align="center"><img src="assets/banners/2-reflect.png" alt="Reflect: answers grounded in what you saved"></p>
 
-**Reflect — grounded in your notebook**
+<p align="center"><img src="assets/banners/3-memory.png" alt="Reflection cards and knowledge map"></p>
 
-<table>
-  <tr>
-    <td align="center" width="25%"><img src="assets/screens/05-reflect-home.png" width="200"><br><sub><b>Reflect</b><br>without sending your whole notebook</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/06-grounded-answer.png" width="200"><br><sub><b>Grounded answer</b><br>connects your quotes and notes</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/07-sources-and-memory.png" width="200"><br><sub><b>Sources & memory</b><br>quotes plus a past reflection, recalled</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/08-web-separated.png" width="200"><br><sub><b>Web, labelled</b><br>outside context kept apart</sub></td>
-  </tr>
-</table>
-
-**Reflection cards & long-term memory**
-
-<table>
-  <tr>
-    <td align="center" width="25%"><img src="assets/screens/09-card-insight.png" width="200"><br><sub><b>Reflection card</b><br>core insight + your own words</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/10-card-details.png" width="200"><br><sub><b>Card details</b><br>themes, a question to return to</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/11-reflection-notes.png" width="200"><br><sub><b>Reflection Notes</b><br>confirmed cards, searchable</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/12-knowledge-map.png" width="200"><br><sub><b>Knowledge Map</b><br>books, quotes, themes, reflections</sub></td>
-  </tr>
-</table>
-
-**Control, sharing & privacy**
-
-<table>
-  <tr>
-    <td align="center" width="25%"><img src="assets/screens/13-choose-sources.png" width="200"><br><sub><b>Choose sources</b><br>scope a conversation yourself</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/14-share-card.png" width="200"><br><sub><b>Share card</b><br>pick what to include</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/15-ai-settings.png" width="200"><br><sub><b>Opt-in AI</b><br>choose provider, key in Keychain</sub></td>
-    <td align="center" width="25%"><img src="assets/screens/16-privacy.png" width="200"><br><sub><b>Privacy, in plain words</b></sub></td>
-  </tr>
-</table>
+<p align="center"><img src="assets/banners/4-control.png" alt="Control, sharing and privacy"></p>
 
 ## What makes Reflect different
 
