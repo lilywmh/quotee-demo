@@ -30,21 +30,47 @@ Quotee starts from the opposite principle:
 
 ## Screenshots
 
+**Capture & notebook**
+
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/screens/01-save.png" width="240"><br><sub><b>Save</b> — camera, image or paste</sub></td>
-    <td align="center" width="33%"><img src="assets/screens/02-clippings.png" width="240"><br><sub><b>Clippings</b> — save first, organize later</sub></td>
-    <td align="center" width="33%"><img src="assets/screens/03-notebook.png" width="240"><br><sub><b>Notebook</b> — a shelf of the books you've quoted</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/01-save.png" width="200"><br><sub><b>Save</b><br>camera, image or paste</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/02-clippings.png" width="200"><br><sub><b>Clippings</b><br>save first, organize later</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/03-notebook.png" width="200"><br><sub><b>Notebook</b><br>a shelf of the books you've quoted</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/04-looking-back.png" width="200"><br><sub><b>Looking Back</b><br>a quiet calendar, no streaks</sub></td>
   </tr>
+</table>
+
+**Reflect — grounded in your notebook**
+
+<table>
   <tr>
-    <td align="center" width="33%"><img src="assets/screens/04-looking-back.png" width="240"><br><sub><b>Looking Back</b> — a quiet calendar, no streaks</sub></td>
-    <td align="center" width="33%"><img src="assets/screens/05-reflect-home.png" width="240"><br><sub><b>Reflect</b> — "only a mirror; the reflection is yours"</sub></td>
-    <td align="center" width="33%"><img src="assets/screens/06-reflect-sources.png" width="240"><br><sub><b>Grounded answers</b> — source quote shown inline</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/05-reflect-home.png" width="200"><br><sub><b>Reflect</b><br>without sending your whole notebook</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/06-grounded-answer.png" width="200"><br><sub><b>Grounded answer</b><br>connects your quotes and notes</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/07-sources-and-memory.png" width="200"><br><sub><b>Sources & memory</b><br>quotes plus a past reflection, recalled</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/08-web-separated.png" width="200"><br><sub><b>Web, labelled</b><br>outside context kept apart</sub></td>
   </tr>
+</table>
+
+**Reflection cards & long-term memory**
+
+<table>
   <tr>
-    <td align="center" width="33%"><img src="assets/screens/07-reflect-ai.png" width="240"><br><sub><b>AI reflection</b> — connects your quotes and notes</sub></td>
-    <td align="center" width="33%"><img src="assets/screens/08-ai-settings.png" width="240"><br><sub><b>Opt-in AI</b> — choose provider, key in Keychain</sub></td>
-    <td align="center" width="33%"><img src="assets/screens/09-privacy.png" width="240"><br><sub><b>Privacy, in plain words</b></sub></td>
+    <td align="center" width="25%"><img src="assets/screens/09-card-insight.png" width="200"><br><sub><b>Reflection card</b><br>core insight + your own words</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/10-card-details.png" width="200"><br><sub><b>Card details</b><br>themes, a question to return to</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/11-reflection-notes.png" width="200"><br><sub><b>Reflection Notes</b><br>confirmed cards, searchable</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/12-knowledge-map.png" width="200"><br><sub><b>Knowledge Map</b><br>books, quotes, themes, reflections</sub></td>
+  </tr>
+</table>
+
+**Control, sharing & privacy**
+
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="assets/screens/13-choose-sources.png" width="200"><br><sub><b>Choose sources</b><br>scope a conversation yourself</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/14-share-card.png" width="200"><br><sub><b>Share card</b><br>pick what to include</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/15-ai-settings.png" width="200"><br><sub><b>Opt-in AI</b><br>choose provider, key in Keychain</sub></td>
+    <td align="center" width="25%"><img src="assets/screens/16-privacy.png" width="200"><br><sub><b>Privacy, in plain words</b></sub></td>
   </tr>
 </table>
 
@@ -57,6 +83,7 @@ Quotee starts from the opposite principle:
 | **Juxtaposition** | Puts two ideas from different books side by side when they share a theme, without deciding for you whether they agree or conflict. |
 | **User-owned conclusions** | Once a conversation reaches real insight, the AI drafts a *reflection card*. Drafts never enter long-term memory until you edit or confirm them in your own words. |
 | **Memory across conversations** | Confirmed cards become retrievable in future conversations and appear on a knowledge map of books, quotes, themes and reflections. |
+| **You choose the scope** | Pin specific quotes as sources for a conversation, or let retrieval decide. |
 | **Separated sources** | Optional web search is always labelled apart from your own notebook. Outside content is never passed off as your thinking. |
 | **Private by default** | Data lives on the device. AI is opt-in, and each request sends only the few retrieved items rather than the whole notebook. |
 
