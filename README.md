@@ -28,6 +28,23 @@ Quotee starts from the opposite principle:
 3. **Notebook.** A bookshelf with custom covers, themes, your own "My Thoughts", search and a calendar look-back. It deliberately has no streaks.
 4. **Reflect.** A conversation grounded in *your* notebook.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/screens/01-save.png" width="200"><br><sub><b>Save</b> — camera, image or paste</sub></td>
+    <td align="center"><img src="assets/screens/02-clippings.png" width="200"><br><sub><b>Clippings</b> — save first, organize later</sub></td>
+    <td align="center"><img src="assets/screens/03-looking-back.png" width="200"><br><sub><b>Looking Back</b> — a quiet calendar, no streaks</sub></td>
+    <td align="center"><img src="assets/screens/04-reflect-home.png" width="200"><br><sub><b>Reflect</b> — "only a mirror; the reflection is yours"</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/screens/05-reflect-sources.png" width="200"><br><sub><b>Grounded answers</b> — source quote shown inline</sub></td>
+    <td align="center"><img src="assets/screens/06-reflect-ai.png" width="200"><br><sub><b>AI reflection</b> — connects your quotes and notes</sub></td>
+    <td align="center"><img src="assets/screens/07-ai-settings.png" width="200"><br><sub><b>Opt-in AI</b> — choose provider, key in Keychain</sub></td>
+    <td align="center"><img src="assets/screens/08-privacy.png" width="200"><br><sub><b>Privacy, in plain words</b></sub></td>
+  </tr>
+</table>
+
 ## What makes Reflect different
 
 | Principle | What it means in practice |
